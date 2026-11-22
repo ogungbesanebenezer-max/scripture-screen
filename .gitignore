@@ -1,0 +1,23 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+models/
+church_bible.db
+*.building
+settings.json
+settings.tmp
+logs/
+# Licensed translations must stay private
+my_bibles/*
+!my_bibles/README.txt
+rehearsal/
+bench/
+data/phone_mic/
+.backup-*/
+*.wav
+# the church's own posters and pictures stay on its laptop
+media/
+# the video player library, fetched by setup
+mpv/
+build/

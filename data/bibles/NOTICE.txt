@@ -1,0 +1,18 @@
+KJV, ASV, BBE and YLT are in the public domain.
+
+YOR.json is the Open Yoruba Contemporary Bible.
+Copyright (c) 2009, 2017 by Biblica, Inc.
+Licensed under Creative Commons Attribution-ShareAlike 4.0 International:
+https://creativecommons.org/licenses/by-sa/4.0/
+The original work by Biblica, Inc. is available for free at www.biblica.com and open.bible.
+Source used here: https://ebible.org/Scriptures/details.php?id=yor
+Changes: the verse text was converted from eBible.org's plain-text file into this app's JSON format; the wording is
+unchanged. Biblica, Inc. does not endorse this app. This file must stay with YOR.json, under the same licence.
+
+BSB.json is the Berean Standard Bible. Its publishers dedicated the text to the public domain (BereanBible.com).
+Source used here: https://bereanbible.com/bsb.txt
+
+WEB.json is the World English Bible (Protestant edition), which is in the public domain. "World English Bible" is a
+trademark of eBible.org. Source used here: https://ebible.org/Scriptures/engwebp_vpl.zip
+Changes to both: converted into this app's JSON format; the wording is unchanged. In WEB, Romans 14:24-26 is stored
+as Romans 16:25-27 so its verse numbers match the other Bibles.
